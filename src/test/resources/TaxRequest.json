@@ -1,0 +1,17 @@
+{
+  "companyId": 4,
+  "companyCode": "41525",
+  "terminalId": 248358,
+  "customerHRLocationId": 878689,
+  "fobFlag": "FOB_TYPE_DESTINATION",
+  "productId": 280651,
+  "customerId": 141967,
+  "supplierId": 1423879,
+  "defaultQuantity": 1,
+  "defaultFuelPriceCurrency": "USD",
+  "defaultFuelPriceUom": "USG",
+  "defaultUnitFuelPrice": 1,
+  "bolLoadDate": "2017/07/12",
+  "billtoSiteUseId": 138302,
+  "customerSiteId": 139979
+}
